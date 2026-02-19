@@ -1,6 +1,0 @@
-magic_code:bytearray
-MOD_ID:int
-
-def getcode(BIN:bytearray) -> list[int, int, list]:...
-
-def load() -> list[list[int, int], int]:...
